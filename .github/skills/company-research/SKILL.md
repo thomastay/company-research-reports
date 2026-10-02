@@ -54,6 +54,8 @@ Output Structure: Please analyze the target company and structure your report us
 7. Risks, Headwinds, & Catalysts
    Risks: Analyze key headwinds, including regulatory threats, competitive pressures, and industry-specific cyclicality.
    Catalysts: Highlight any notable foreseen events on the horizon that could re-rate the stock.
-   Write your output to `reports/<company-name>-<date>.md`. Create the `reports/` directory if it does not exist.
 8. Additional Info
    {{ADDITIONAL_INFO}}
+
+Output:
+Write your output to `reports/<company-name>-<date>.md`. Create the `reports/` directory if it does not exist.
